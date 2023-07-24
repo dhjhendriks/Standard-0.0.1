@@ -18,11 +18,11 @@ __version__   = "V0.0.1"
 __status__    = "Development"
 
 
-import std
+import package
 
 
 def main():
-    print(std.Test.testing(48, 180))
+    print(package.Test.testing(48, 180))
 
 
 if __name__ == "__main__":
