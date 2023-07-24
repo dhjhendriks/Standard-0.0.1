@@ -3,3 +3,5 @@ std/__pycache__/package.cpython-311.pyc
 std/__pycache__/package.cpython-311.pyc
 package/__pycache__/__init__.cpython-311.pyc
 package/__pycache__/helpers.cpython-311.pyc
+standard.log
+package/__pycache__/logging.cpython-311.pyc

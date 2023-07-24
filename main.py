@@ -23,6 +23,7 @@ import package
 
 def main():
     print(package.Test.testing(48, 180))
+    package.Log.text_message("standard.log", "Error", 1, 1)
 
 
 if __name__ == "__main__":
